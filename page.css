@@ -1,0 +1,37 @@
+.header {
+  background-color: #3d95ce;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-icons {
+  display: flex;
+  align-items: center;
+}
+
+.header-icon {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.payment {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-icon img {
+  width: 10000px;
+  height: 24px;
+}
+
+.imgBuff img {
+  padding: 1px;
+}
