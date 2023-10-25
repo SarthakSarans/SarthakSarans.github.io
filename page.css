@@ -7,7 +7,12 @@
   justify-content: space-between;
   align-items: center;
 }
-
+body {
+  min-height: 1792px;
+  max-width: 828px;
+  background-color: papayawhip; 
+  margin: 0 auto;
+}
 .header-icons {
   display: flex;
   align-items: center;
